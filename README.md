@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.</br>
+Frontend dessa api [Projectmanager](https://github.com/Gabriel-31415/project-manager.git)
 
 ## Installation
 
